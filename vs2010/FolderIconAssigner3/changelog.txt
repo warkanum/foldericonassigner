@@ -1,0 +1,19 @@
+/*Folder Icon Assigner 3 Changelog*/
+
+
+Version 3.2: (beta)
+~Icon preview.
+~Containers support, exe and dll icon extracting.
+~Icon indexing fixed.
+
+
+Version 3.1: (alpha)
+~Using FreeImage for image for icon convertion and saving.
+~Ability to convert pictures into icons.
+~Added Resample of all icons and pictures.
+~Unique Icon file names to be generated.
+
+Version 3.0: (alpha)
+~Converter to c++ from c# (Total redesign)
+~Using Wxwigets for gui
+~Implemented basic icon copy and desktop.ini generation.

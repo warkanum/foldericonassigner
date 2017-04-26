@@ -1,0 +1,6 @@
+/*Folder Icon Assigner 3 To do List*/
+
+~Add multipaged export for bitmaps and icons
+~Remove copy container toggel and make it default on
+~Advanced Container icons extraction with alpha mask
+~Increase support for conversion of 256x256 icons. Current is 128x128
